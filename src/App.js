@@ -1,6 +1,5 @@
 import './styles/main.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import { useTranslation } from 'react-i18next'
 import React, { useEffect } from 'react'
 import i18n from './i18n'
 import Cookies from 'js-cookie'
